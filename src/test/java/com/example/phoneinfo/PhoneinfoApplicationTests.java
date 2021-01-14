@@ -60,5 +60,5 @@ public class PhoneinfoApplicationTests {
         System.out.println("url值："+propertiesUtil.getProperties("url"));
     }
     //演示git pull 原理
-    //冲突演示
+    //冲突演示,123
 }
