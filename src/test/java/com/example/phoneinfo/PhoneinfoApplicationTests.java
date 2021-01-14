@@ -59,7 +59,4 @@ public class PhoneinfoApplicationTests {
     public void testPropertiesByZK(){
         System.out.println("url值："+propertiesUtil.getProperties("url"));
     }
-    //演示git pull 原理
-    //冲突演示，000
-    //冲突演示,123
 }
